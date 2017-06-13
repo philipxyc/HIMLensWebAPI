@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="HIMLens" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\phili\\Documents\\HIMLens\\HIMLens\\WebAPI\\WebAPI\\obj\\Release\\net452\\win7-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
